@@ -4,7 +4,6 @@ This project is a Demo APP using React, Typescript, ASP.net Core 3 and webpack t
 
 ## Available Scripts
 
-In the project directory, you can run:
 
 ### `Build the Project`
 In the Project folder EventAPI
